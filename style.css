@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+li {
+  text-decoration: none;
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav {
+  float: right;
+}
+
+.user-photo {
+  height: 30px;
+  border-radius: 50%;
+}
+
+main {
+  text-align: center;
+}
+
+.logo {
+  width: 400px;
+  margin-top: 200px;
+}
+
+footer {
+  float: bottom;
+  display: flex;
+}
